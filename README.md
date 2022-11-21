@@ -1,4 +1,4 @@
 # Portfolio
 Portfolio website demo
-![image](https://user-images.githubusercontent.com/118747126/203082636-6306d9b6-2ec2-4cb1-b9fa-09a2b11ff846.png)
+![image](https://user-images.githubusercontent.com/118747126/203082887-2c2f6596-a036-4b77-921c-1f1123e530a1.png)
 
